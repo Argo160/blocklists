@@ -33,7 +33,6 @@ www.youtube.com
 suggestqueries.google.com
 www.google.com
 play.googleapis.com
-yt3.googleusercontent.com
 clients2.google.com
 android.googleapis.com
 androidplatformbackuprestore-pa.googleapis.com
@@ -68,7 +67,6 @@ news.youtube.com
 nl.youtube.com
 nz.youtube.com
 p.youtube.com
-s.youtube.com
 tv.youtube.com
 tw.youtube.com
 uk.youtube.com
